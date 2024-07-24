@@ -1,0 +1,15 @@
+{
+    "name": "websocket-lambda",
+    "version": "1.0.0",
+    "description": "WebSocket Lambda function to handle various routes.",
+    "main": "index.mjs",
+    "type": "module",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+    "aws-sdk": "^2.1168.0"
+    },
+    "author": "",
+    "license": "ISC"
+}
