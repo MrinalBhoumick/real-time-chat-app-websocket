@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react'
 import { ChatClient } from './chat-client';
 
-const URL = 'wss://fekge9j1k4.execute-api.ap-south-1.amazonaws.com/production/';
+const URL = 'wss://90kub899t9.execute-api.ap-south-1.amazonaws.com/production/';
 
 const App = () => {
 
